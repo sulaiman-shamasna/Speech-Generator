@@ -37,6 +37,6 @@ By cloning this code, you will be having a complete ***Text-To-Speech*** applica
 
 5. Run the script: ```speech_generator.py``` and enjoy using the *App*.
 
-![Speech-Generator](https://github.com/sulaiman-shamasna/Text-Generator/blob/main/plots/Speech-Generator-UI.png)
+![Speech-Generator](https://github.com/sulaiman-shamasna/Speech-Generator/blob/main/plots/Speech-Generator-UI.png)
 
 Type your text in the blank space or load your file, and save audio to a selected directory afterwards.
